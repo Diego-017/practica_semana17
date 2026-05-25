@@ -1,3 +1,11 @@
+UNIVERSIDAD GERARDO BARRIOS
+PROGRAMACIÓN COMPUTACIONAL IV C3 SEMANA 16
+DOCENTE: WILLIAN ALEXIS MONTÉS GIRÓN
+ALUMNO: DIEGO MARTÍN LÓPEZ MORENO (SMSS097824)
+GRUPO:"B2"
+FECHA: 24, MAYO 2026
+
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
@@ -60,9 +68,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# Practica-Semana-17-Evaluada
-Practica Semana 17 Evaluada
->>>>>>> 76e71d7e94def00e6ea39463c9d852dc9544304c
-=======
-# practica_semana17
->>>>>>> 5824969e21c53cfa51e175678ae568633af5e4ac
+
